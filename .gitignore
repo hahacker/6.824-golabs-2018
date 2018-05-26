@@ -1,0 +1,6 @@
+pkg/
+api.key
+*-handin.tar.gz
+.project
+src/mapreduce/*.exe
+src/main/*.rar
